@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0 10px 0 10px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(117, 198, 198);
+}
+
+.image{
+    margin-left: -800px;
+}
+
+nav div a:hover{
+    color: red;
+}
+
+span{
+    color: orangered;
+}
+
+h1{
+    color: #e84509;
+}
+
+#details {
+    padding-top: 130px;
+    font-size: large;
+}
+#details a{
+    background-color: black;
+}
+
+.Picture{
+    margin-left: 78%;
+    margin-top: -20%;
+}
+.Picture img {
+    transform: translateX(-50%);
+    transition: bottom 1s, left 1s;
+}
+.fa {
+    padding: 10px;
+    font-size: 25px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 1;
+  }
+  .color {
+    margin-left: 20px;
+  }
+  .icons{
+    margin-top: -40px;
+    margin-left: 20px;
+
+  }
+  .nav-item{
+    color: black;
+  }
+  
+
+
